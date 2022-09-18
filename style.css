@@ -1,0 +1,50 @@
+#button{
+    font-size: 100px;
+    text-align: center;
+    transition: 0.5s;
+    background-color: black;
+    border-radius: 10px;
+ }
+
+#button:hover{
+background-color:  #7232bd;
+}
+
+#button1{
+    font-size: 60px;
+    text-align: center;
+    background-color: black;
+    transition:0.5s ;
+    border-radius: 10px;
+}
+
+#button1:hover{
+    background-color:  #7232bd;
+    }
+
+
+#button2{
+    font-size: 70px;
+    text-align: center;
+    background-color: black;
+    transition:0.5s ;
+    border-radius: 10px;
+}
+#button2:hover{
+    background-color:  #7232bd;
+    }
+
+
+#bg{
+width: 50%;
+padding: 40px;
+
+}
+
+#nama{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    align-items: center;
+    text-align: center;
+  
+}
